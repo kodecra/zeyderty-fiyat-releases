@@ -1,13 +1,16 @@
+# ZeyderTY Fiyat - OTA Updates
 
-## Getting Started
+Bu repo sadece OTA (Over-The-Air) güncellemeler için kullanılır.
 
-This project is a starting point for a Flutter application.
+## Dosyalar
 
-A few resources to get you started if this is your first Flutter project:
+- `version.json` - Versiyon bilgisi
+- `apk/` - APK dosyaları
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Güncelleme
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Uygulama otomatik olarak güncellemeleri bu repo'dan çeker.
+
+---
+
+**Not**: Ana proje kodları bu repo'da değildir.
